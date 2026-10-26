@@ -5,12 +5,21 @@ I focus on clear, maintainable fixes for mobile overflow, spacing, alignment, ty
 
 **HTML · CSS · CSS Grid · Flexbox · JavaScript interface interactions**
 
+## Featured project
+
+### [Suq Elbalad](https://github.com/SaidNasrDev/suq-elbalad)
+One platform with three marketplace experiences: Arabic local shopping, international product discovery, and freelance services.
+
+[Explore the project showcase](https://github.com/SaidNasrDev/suq-elbalad) · [Visit the platform](https://suq-elbalad.com/)
+
+![Suq Elbalad marketplace](https://raw.githubusercontent.com/SaidNasrDev/suq-elbalad/main/local-cover.jpg)
+
 ## Selected portfolio concepts
 
 | Project | Interface focus |
 | --- | --- |
 | **STILL** | Lighting storefront, responsive product cards, filters and a demo cart |
-| **FORMA** | Analytics dashboard, synthetic data, reporting filters and a searchable table |
+| **FORMA** | Analytics dashboard, demonstration data, reporting filters and a searchable table |
 | **SERRA** | Hospitality landing page, responsive forms, residence filters and date validation |
 
 These are working, self-initiated concepts. Their case studies include actual browser screenshots and controlled before-and-after layout demonstrations.
